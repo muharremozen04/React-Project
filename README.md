@@ -5,8 +5,8 @@
 
 # Install all dependencies
 <h3> npm install react </h3>
-npm install bulma
+<h3> npm install bulma </h3>
 
 # for start
-npm start
+<h3> npm start </h3>
 
