@@ -1,0 +1,10 @@
+.phone{
+    width: 350px;
+}
+
+.phoneDiv{
+    margin: 10px;
+    border: 10px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+}
